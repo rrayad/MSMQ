@@ -1,7 +1,7 @@
 # Configuración MSMQ
 
 ## Powershell
-### Ejecutar los siguientes comandos
+### Ejecutar los siguientes comandos como ADMIN
 
 1.-
 
