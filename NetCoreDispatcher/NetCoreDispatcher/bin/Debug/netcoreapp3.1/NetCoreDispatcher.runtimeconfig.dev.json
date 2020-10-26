@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\raya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\raya\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOzz06LJoUCoVIbGdznHAk0P6aM8PWRvhb/XEZ+0xSCimELdtocyAJnYrHOGbaTQUPIO4TC9tNocMkkClo86wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raya\\Source\\Repos\\NetCoreDispatcher\\NetCoreDispatcher\\NetCoreDispatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raya\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512",
+    "C:\\Users\\raya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\raya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
