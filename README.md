@@ -15,7 +15,7 @@
 
 ### Ports
 
-`2103,2105,135,1801`
+`2103,2105,135,1801,2101`
 
 ## Configurar registros en REGEDIT
 
