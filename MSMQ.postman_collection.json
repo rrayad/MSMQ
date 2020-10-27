@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "4b6cac2a-b453-416b-bab6-907b10863c55",
+		"_postman_id": "20ca8839-ee0d-40b5-9a00-36550a704238",
 		"name": "MSMQ",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -23,15 +23,14 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:50328/Home/getmessages",
+					"raw": "http://localhost:50328/Msmq",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"port": "50328",
 					"path": [
-						"Home",
-						"getmessages"
+						"Msmq"
 					]
 				}
 			},
@@ -52,15 +51,14 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:50328/Home/send",
+					"raw": "http://localhost:50328/Msmq",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"port": "50328",
 					"path": [
-						"Home",
-						"send"
+						"Msmq"
 					]
 				}
 			},
