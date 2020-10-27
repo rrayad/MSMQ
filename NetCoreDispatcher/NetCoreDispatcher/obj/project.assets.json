@@ -153,11 +153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raya\\Source\\Repos\\NetCoreDispatcher\\NetCoreDispatcher\\NetCoreDispatcher.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\MSMQ\\NetCoreDispatcher\\NetCoreDispatcher\\NetCoreDispatcher.csproj",
       "projectName": "NetCoreDispatcher",
-      "projectPath": "C:\\Users\\raya\\Source\\Repos\\NetCoreDispatcher\\NetCoreDispatcher\\NetCoreDispatcher.csproj",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\MSMQ\\NetCoreDispatcher\\NetCoreDispatcher\\NetCoreDispatcher.csproj",
       "packagesPath": "C:\\Users\\raya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raya\\Source\\Repos\\NetCoreDispatcher\\NetCoreDispatcher\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\MSMQ\\NetCoreDispatcher\\NetCoreDispatcher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raya\\AppData\\Roaming\\NuGet\\NuGet.Config",
