@@ -1,9 +1,6 @@
 ﻿using Newtonsoft.Json;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Messaging;
-using System.Web;
 using System.Web.Mvc;
 
 namespace netFramework.Controllers
@@ -26,8 +23,6 @@ namespace netFramework.Controllers
             public string label { get; set; }
             public string body { get; set; }
 
-
-
         };
         // GET: Msmq
         public dynamic Index()
@@ -35,8 +30,6 @@ namespace netFramework.Controllers
 
             MessageResponse messageResponses = new MessageResponse();
             List<InnerMessages> listMessages = new List<InnerMessages>();
-
-            
 
             try
             {
